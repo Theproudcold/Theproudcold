@@ -1,7 +1,5 @@
 ## Hello GitHub Fans 👋 
 ---
-<img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/74409933?v=4" />
-
 ### I'm hypoy
 
 - 信息管理与信息系统本科生 & 开源爱好者。
